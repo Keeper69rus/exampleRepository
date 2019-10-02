@@ -9,18 +9,19 @@ https://sdcast.ksdaemon.ru/tag/dwh/
 
 
 Подходы к созданию хранилищ:
- Кимбал;
- Инман;
++ Кимбал;
++ Инман;
    http://iso.ru/ru/press-center/journal/2056.phtml
    http://iso.ru/ru/press-center/journal/2057.phtml
    + книги 
+  
 
 
- data wault:
++ data wault:
    https://habr.com/ru/post/348188/
-
-  anchor model якорная форма с 6-НФ:
+  
++ anchor model якорная форма с 6-НФ:
     https://habr.com/ru/company/avito/blog/322510/
 
-  data lake:
++ data lake:
     https://habr.com/ru/company/tinkoff/blog/259173/
