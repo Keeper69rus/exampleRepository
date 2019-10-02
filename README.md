@@ -9,11 +9,13 @@ https://sdcast.ksdaemon.ru/tag/dwh/
 
 
 Подходы к созданию хранилищ:
-+ Кимбал;
-+ Инман;
++ Кимбал - CIS (Corporative Information Factory);
++ Инман - DWB (Data Warehouse Bus);
    http://iso.ru/ru/press-center/journal/2056.phtml
    http://iso.ru/ru/press-center/journal/2057.phtml
-   + книги 
+   + книги
+    + W.H. Inmon, Building the Data Warehouse
+    + R. Kimball The Data Warehouse Toolkit
   
 
 
