@@ -27,3 +27,6 @@ https://sdcast.ksdaemon.ru/tag/dwh/
 
 + data lake:
     https://habr.com/ru/company/tinkoff/blog/259173/
+
+Innovation Cafe #10 Rosbank agile transformation:
+https://www.youtube.com/watch?v=yaReTCDzj90&feature=youtu.be
