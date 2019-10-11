@@ -30,3 +30,10 @@ https://sdcast.ksdaemon.ru/tag/dwh/
 
 Innovation Cafe #10 Rosbank agile transformation:
 https://www.youtube.com/watch?v=yaReTCDzj90&feature=youtu.be
+
+
+Плейлист с работой аналитика в Avito:
+https://www.youtube.com/watch?v=uh5nyhABxjg&list=PLknJ4Vr6efQG4ttfg36rq2CAdUPE4s95r
+
+Плейлист с видео про DWH в Авито:
+https://www.youtube.com/watch?v=_8DFvqy1Wkw&list=PLknJ4Vr6efQF6BATjplZ9EU4w2aCqgqCa
